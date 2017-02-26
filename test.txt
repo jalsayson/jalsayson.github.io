@@ -1,0 +1,5 @@
+Hello world!
+
+This is a text for file editing in Vim.
+
+Thanks. :)
